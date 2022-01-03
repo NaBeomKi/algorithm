@@ -4,8 +4,8 @@ for n in b[::-1]:
     print(a * int(n))
 print(a * int(b))
 
-# a,b=map(int,open(0))
-# print(b%10*a,(b%100//10)*a,(b//100)*a,b*a)
+# a, b = map(int, open(0))
+# print(b % 10 * a, (b % 100 // 10) * a, (b // 100) * a, b * a)
 
 # open(0)
 # https://www.acmicpc.net/board/view/59815
